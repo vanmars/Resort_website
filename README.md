@@ -1,6 +1,6 @@
 # _Oasis Hotel Website_
 
-#### _Webpage to practice HTML and CSS linking (for Epicodus), 8/4/2020_
+#### _Webpage to practice HTML/CSS basics and git branches merging (for Epicodus), 8/4/2020_
 
 #### By _**Natalie Murphy, Vanessa Stewart**_
 
